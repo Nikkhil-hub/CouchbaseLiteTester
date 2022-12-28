@@ -1,0 +1,79 @@
+h1{
+    margin-top:100px;
+    font-size:60px;
+    font-style: italic;
+}
+
+p{
+    margin-top: 12px;
+    line-height:2;
+    font-size:18px;
+
+}
+
+span{
+    font-size:125px;
+    color:#58261b;
+}
+body{
+    background-color:#f5e8f5;
+    overflow-x: hidden;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn{
+    padding: 5px 12px;
+}
+
+.icon{
+    padding:7px 22px;
+}
+
+.info{
+    margin-top:230px;
+}
+
+.info h1{
+    color:#4f4a41;
+}
+
+
+.info P{
+    color:#61892f;
+    margin-left: 10px;
+
+}
+
+.menu{
+    padding: 5px 25px;
+    margin-top: 20px;
+}
+
+#formGroupExampleInput{
+    width:85%;
+}
+#formGroupExampleInput2{
+    width:85%;
+}
+
+.contact{
+    background-color:#f5e8f5;
+}
+
+.contact-head h1{
+color: #14545b;
+}
+
+#inputAddress{
+    width: 85%;
+}
+
+#inputAddress2{
+    width: 85%;
+}
+#inputCity{
+    width: 85%;
+}
+.footer{
+    background-color:#f5cffe;
+}
